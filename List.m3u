@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="canal1" tvg-name="Retro Cartoon" group-title="Canais Ao Vivo",Canal Ao Vivo
 https://stmv1.video.brstream.com.br/retroctv/retroctv/chunklist_w587990472.m3u8
 
-#EXTINF:-1 tvg-id="filme1" tvg-name="Filme Exemplo" group-title="VOD Filmes",Filme Exemplo
-https://vdn.libreflix.org/video/metropolis/metropolis.360.mp4
+#EXTINF:-1 tvg-id="filme1" tvg-name="Filme Exemplo" group-title="VOD Filmes",Harry Potter
+https://cdnst95.tokyvideo.com/videos/839/839772/mp4/c05547a2760a71dfa0d986d90b56c65b450029961cb9d196cbb5858b0c8a8b7a.mp4?secure=3U-x0qx0A3q3WkpPB02x5Q%3D%3D%2C1776600397
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Serie Exemplo S01E01" group-title="VOD Séries",Serie Exemplo S01E01
 https://vdn.libreflix.org/video/abrigo-nuclear/abrigo-nuclear.360.mp4
